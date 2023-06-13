@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Aula06Condições\Aula06Condições\bin\Debug\Aula06Condições.exe.config
+C:\Users\USER\source\repos\Aula06Condições\Aula06Condições\bin\Debug\Aula06Condições.exe
+C:\Users\USER\source\repos\Aula06Condições\Aula06Condições\bin\Debug\Aula06Condições.pdb
+C:\Users\USER\source\repos\Aula06Condições\Aula06Condições\obj\Debug\Aula06Condições.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Aula06Condições\Aula06Condições\obj\Debug\Aula06Condições.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Aula06Condições\Aula06Condições\obj\Debug\Aula06Condições.exe
+C:\Users\USER\source\repos\Aula06Condições\Aula06Condições\obj\Debug\Aula06Condições.pdb
